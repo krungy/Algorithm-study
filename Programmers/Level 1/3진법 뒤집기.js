@@ -9,3 +9,5 @@ function solution(n) {
   answer = parseInt(reverse * 1, 3);
   return answer;
 }
+
+// https://programmers.co.kr/learn/courses/30/lessons/68935
