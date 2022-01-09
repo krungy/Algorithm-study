@@ -21,3 +21,5 @@ function solution(s, n) {
   }
   return answer;
 }
+
+// https://programmers.co.kr/learn/courses/30/lessons/12926
