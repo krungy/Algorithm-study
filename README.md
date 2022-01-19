@@ -1,6 +1,9 @@
 # Algorithm Study
 ## Programmers
 ### Level 1
+<details>
+    <summary>접기/펼치기</summary>
+    <pre markdown="1">
 - 숫자 문자열과 영단어
 - 신규 아이디 추천
 - 없는 숫자 더하기
@@ -44,3 +47,13 @@
 - 가운데 글자 가져오기
 - 부족한 금액 계산하기
 - 최대공약수와 최소공배수
+- 소수 찾기 (풀어야할 문제)
+- 문자열 내 마음대로 정렬하기 (풀어야할 문제)
+</details>
+
+### Level 2
+<details>
+    <summary>접기/펼치기</summary>
+    <pre markdown="1">
+- JadenCase 문자열 만들기
+</details>
