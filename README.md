@@ -56,4 +56,5 @@
     <summary>접기/펼치기</summary>
     <pre markdown="1">
 - JadenCase 문자열 만들기
+- 최솟값 만들기
 </details>
