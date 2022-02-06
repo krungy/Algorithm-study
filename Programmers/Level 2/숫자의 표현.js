@@ -11,3 +11,5 @@ function solution(n) {
   }
   return answer + 1;
 }
+
+// https://programmers.co.kr/learn/courses/30/lessons/12924
