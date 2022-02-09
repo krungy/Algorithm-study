@@ -1,6 +1,9 @@
 # Algorithm Study
+
 ## Programmers
+
 ### Level 1
+
 <details>
     <summary>접기/펼치기</summary>
     <pre markdown="1">
@@ -52,6 +55,7 @@
 </details>
 
 ### Level 2
+
 <details>
     <summary>접기/펼치기</summary>
     <pre markdown="1">
@@ -65,6 +69,7 @@
 - 이진 변환 반복하기
 - 짝지어 제거하기
 - 타겟 넘버
-- N개의 최소공배수 (다시한번 풀어보기)
+- N개의 최소공배수 (다시 풀어보기)
 - 다리를 지나는 트럭
+- 124 나라의 숫자 (다시 풀어보기)
 </details>
